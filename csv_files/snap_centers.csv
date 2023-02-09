@@ -1,0 +1,49 @@
+ID,Type,Name,Address,Zip Code,Borough,Phone Number
+1,SNAP_CENTER,Neighbors Together,2094 Fulton Street,11233,Brooklyn,718-498-7256
+2,SNAP_CENTER,Northeast Brooklyn Housing Development Corporation,376 Throop Avenue,11221,Brooklyn,718-453-9490
+3,SNAP_CENTER,St. Nicks Alliance Workforce Development,790 Broadway,11206,Brooklyn,718-302-2057
+4,SNAP_CENTER,Community Alliance Initiative,60-85 Myrtle Ave,11385,Brooklyn,718-305-4888
+5,SNAP_CENTER,Interfaith Medical Center,528 Prospect Place,11238,Brooklyn,718-613-6835
+6,SNAP_CENTER,Community Service Center of Greater Williamsburg,378 Flushing Avenue,11205,Brooklyn,718-865-8278 ext. 104
+7,SNAP_CENTER,Central Jewish Council,127 Rutledge St,11211,Brooklyn,718-246-2100
+8,SNAP_CENTER,CAMBA,885 Flatbush Ave,11226,Brooklyn,718-287-0010 ext. 40224
+9,SNAP_CENTER,Arab American Family Support Center,"150 Court Street, 3rd Floor",11201,Brooklyn,718-643-8000
+10,SNAP_CENTER,Council of People Organization (COPO),1081 Coney Island Ave,11230,Brooklyn,718-434-3266
+11,SNAP_CENTER,The River Fund New York,89-11 Lefferts Blvd,11418,"Richmond Hill, NY",718-441-1125
+12,SNAP_CENTER,Nachas ,1310 48th Street,11219,Brooklyn,718-436-7373
+13,SNAP_CENTER,Central Queens YM & YWHA,67-09 108th Street,11375,Queens,718-268-5011 ext. 162
+14,SNAP_CENTER,NYC Community Services,1712 Kings Highway,11229,Brooklyn,718-383-4424
+15,SNAP_CENTER,Richmond Hill Senior Residence,127-03 Jamaica Ave,11418,Queens,718-207-8208
+16,SNAP_CENTER,Center for Employment Opportunity,"50 Broadway, Suite 1604",10004,Manhattan,212-422-4430
+17,SNAP_CENTER,Hour Children Food Pantry,36-49 11th Street,11106,Queens,718-482-8826
+18,SNAP_CENTER,St. Johns Episcopal Hospital Family Resource Center,"148-45 Hillside Ave, Suite 203",11435,Queens,347-644-5711
+19,SNAP_CENTER,CIANA,31-9 Newtown Ave,11102,Queens,646-499-1734
+20,SNAP_CENTER,Restful Nights Organization,106-38 150 Street,11435,Queens,718-291-4600
+21,SNAP_CENTER,Department of Labor - Flushing,"138-60 Barclay Ave, 2nd Floor",11355,Queens,212-894-8060
+22,SNAP_CENTER,Veterans Evidence Based Treatment Services (VETS),111-16 173rd Street,11433,Queens,718-206-2376
+23,SNAP_CENTER,Union Settlement,"237 East 104th Street, Main Floor",10029,Manhattan,212-828-6096
+24,SNAP_CENTER,Little Sisters of the Assumption Family Health,333 East 115th Street,10029,Manhattan,646-672-5200
+25,SNAP_CENTER,New York Common Pantry,8 East 109th Street,10029,Manhattan,917-720-9705
+26,SNAP_CENTER,Food Bank Tax & Financial Services Center,71 St. Nicholas Avenye,10026,Manhattan,212-894-8060
+27,SNAP_CENTER,Community Health Action of Staten Island,23 Hyatt Street,10301,Staten Island,718-808-1800
+28,SNAP_CENTER,Community Kitchen & Food Pantry of West Harlem - Food Bank,252 West 116th Street,10026,Manhattan,212-894-8060
+29,SNAP_CENTER,Project Hospitality,514 Bay Street,10304,Staten Island,718-448-3470
+30,SNAP_CENTER,"Taurus Associates, Inc.",231-02 Edgewood Ave,11413,Queens,718-206-2376
+31,SNAP_CENTER,Bronxworks - Southern Blvd,630 Southern Blvd,10455,Bronx,718-508-3194
+32,SNAP_CENTER,Joseph P. Kennedy Center,34 West 134th Street,10037,Manhattan,212-862-6401
+33,SNAP_CENTER,Catholic Charities Bronx Center,402 E. 152nd Street,10455,Bronx,718-292-9090
+34,SNAP_CENTER,West Harlem Group Assistance,625 Lenox Ave,10037,Bronx,212-690-7900
+35,SNAP_CENTER,Resource Center for Community Development-Hopeline,884 East 163rd Street,10459,Bronx,212-894-8060
+36,SNAP_CENTER,Phipps,3125 3rd Ave,10451,Bronx,347-329-3929
+37,SNAP_CENTER,PHIPPS - Soundview Community Center,1680 Seward Avenue,10473,Bronx,212-894-8060
+38,SNAP_CENTER,Urban Scholars Community School,1180 Tinton Ave,10456,Bronx,718-329-8570
+39,SNAP_CENTER,Morrisania Baptist Church,551 East 169th Street,10456,Bronx,718-825-2683
+40,SNAP_CENTER,Community Food Pantry Chasi,2134 Richmond Terrance,10302,Staten Island,718-808-1840
+41,SNAP_CENTER,Project Hospital/El Centro,1540 Castleton Avenue,10302,Staten Island,718-447-5483
+42,SNAP_CENTER,The Salvation Army: Port Richmond,1295 Forest Avenue,10302,Staten Island,718-442-2145
+43,SNAP_CENTER,Davidson Community Center,2038 Davidson Avenue,10453,Bronx,718-731-6360
+44,SNAP_CENTER,Dominican Women's Development Center,"519 West 189th Street, Suite FG",10040,Manhattan,212-740-4335
+45,SNAP_CENTER,"Power Praise and Deliverance, Inc.",2 Evelyn Place,10468,Bronx,347-409-0288
+46,SNAP_CENTER,"Bronx Community Health Network, Inc.","1 Fordham Plaza, Suite 1108",10458,Bronx,718-405-4992
+47,SNAP_CENTER,Part of the Solution,2759 Webster Avenue,10458,Bronx,718-220-4892
+48,SNAP_CENTER,International School for Liberal Arts,2780 Reservoir Avenue,10468,Bronx,718-329-8570

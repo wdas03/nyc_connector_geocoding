@@ -1,0 +1,35 @@
+ID,Type,Name,Address,Zip Code,Borough,Phone Number,Website
+1,HOMELESS_SHELTER,Providence House for Pregnant Women and Children,703 Lexington Avenue,11221,Brooklyn,718-455-0197,https://www.providencehouse.org
+2,HOMELESS_SHELTER,Barbara Kleiman Shelter,300 Skillman Ave,11211,Brooklyn,718-963-3800,N/A
+3,HOMELESS_SHELTER,Neighbors Together Corporation,2094 Fulton Street,11231,Brooklyn,718-498-7256,https://www.neighborstogether.org
+4,HOMELESS_SHELTER,Gates Avenue Center for Opportunity,520 Gates Avenue,11216,Brooklyn,718-628-3223,N/A
+5,HOMELESS_SHELTER,Van Scilen Women's Shelter (Samartan Village),246 Jamaica Avenue,11207,Brooklyn,718-235-1464,N/A
+6,HOMELESS_SHELTER,"Because Everyone Deserves Shelter, BEDS",1788 St. Johns Place,11233,Brooklyn,347-465-0782,https://www.shelterday.org
+7,HOMELESS_SHELTER,HELP Women's Shelter New York City,116 Williams Avenue between Liberty Ave and Glenmore Ave,11207,Brooklyn,718-483-7700,N/A
+8,HOMELESS_SHELTER,Tillary Street Women's Shelter,200 Tillary Street,11201,Brooklyn,888-425-0501,N/A
+9,HOMELESS_SHELTER,Pam's Place Shelter,40-03 29th St,11101,"Long Island City, NY",N/A,N/A
+10,HOMELESS_SHELTER,"Shelter and Food for the Homeless, Inc.",602 E 9th Street,10009,Manhattan,212-228-5254,N/A
+11,HOMELESS_SHELTER,Center Against Domestic Violence,25 Chapel Street Suite 904,11201,Brooklyn,718-254-9134,http://www.cadvny.org
+12,HOMELESS_SHELTER,New York City 30th Street Intake for Homeless Men,30th Street and 1st Avenue,10016,Manhattan,718-557-1399,https://www.coalitionforthehomeless.org/resources/30th-street-mens-shelter/
+13,HOMELESS_SHELTER,Bowery Mission,227 Bowery,10002,Manhattan,212-674-3456,https://www.bowery.org
+14,HOMELESS_SHELTER,3rd Street Men's Shelter,8 East 3rd Street,10003,Manhattan,212-533-8400,N/A
+15,HOMELESS_SHELTER,Homes for the Homeless,"36 Cooper Square, 6th Floor",10003,Manhattan,212-529-5252,http://www.hfhnyc.org/
+16,HOMELESS_SHELTER,New York City Rescue Mission,90 Lafayette Street,10003,Manhattan,212-226-6214,http://nycrescue.org/
+17,HOMELESS_SHELTER,Grand Central Neighborhood Social Services Corporation (GCNSSC),120 East 32nd Street,10016,Manhattan,212-883-0680,http://grandcentralneighborhood.org/
+18,HOMELESS_SHELTER,One Step Forward Shelter Place,123 Ave Of the Americans,10013,Manhattan,212-354-7428,N/A
+19,HOMELESS_SHELTER,Breaking Ground,"505 Eighth Avenue, 5th Floor",10018,Manhattan,212-389-9300,https://www.breakingground.org/
+20,HOMELESS_SHELTER,Holy Apostles Soup Kitchen,296 9th Avenue,10001,Manhattan,212-924-0167,https://www.holyapostlessopkitchen.org/
+21,HOMELESS_SHELTER,Sylvia's Place,446 W 36th Street,10018,Manhattan,212-629-7440,https://www.truecolorsfund.org/provides/united-states/new-york/new-york/housing/mccny-homeless-youth-services-sylvias-place/
+22,HOMELESS_SHELTER,Church of the Blessed Sacrament Transitional Residence,152 W 71st Street,10023,Manhattan,212-873-9224,https://www.blessedsacramentnyc.org/
+23,HOMELESS_SHELTER,"Restfull Nights Organization, Inc.",106-38 150th Street,11435,"Jamaica, NY",718-291-4600,http://www.restfullnightscorporation.com/
+24,HOMELESS_SHELTER,Charles Gay Center,1 Keener Building,10035,"Wards Island, NY",212-369-8927,N/A
+25,HOMELESS_SHELTER,Lalitamba Saranam (Frederick's Place),"P.O. Box 131, Planetarium Station, 10024",10024,Manhattan,212-873-0140,http://www.threejewelsrefuge.org/
+26,HOMELESS_SHELTER,Bethel Gospel Assembly Shelter,2-26 East 120th Street,10037,Bronx,212-860-1510,https://www.bethelga.org/
+27,HOMELESS_SHELTER,"Soul Redemption, LLC.","P.O. Box 340075, 11234",11234,Brooklyn,347-529-3770,http://www.soulredemptionllc.org/
+28,HOMELESS_SHELTER,Harlem United Community AIDS Center,123-125 W 124th Street,10027,Manhattan,212-531-1300,https://www.harlemunited.org/
+29,HOMELESS_SHELTER,Jamaica Armory Shelter for Women,9305 168th Street,11434,"Jamaica, NY",718-262-1450,N/A
+30,HOMELESS_SHELTER,Franklin Women's Intake Shelter,1122 Franklin Avenue (near East 166th Street),10460,Bronx,718-842-9797,http://www.coalitionforthehomeless.org/resources/franklin-avenue-armory-womens-shelter/
+31,HOMELESS_SHELTER,Cromwell Avenue Safe Haven,40 West 170th Street,10452,Bronx,718-293-2930,http://www.coalitionforthehomeless.org/resources/cromwell-ave-safe-haven/
+32,HOMELESS_SHELTER,Maya's Place,1774 Popham Avenue,10453,Bronx,718-583-2380,http://www.mayasplaceny.com/
+33,HOMELESS_SHELTER,United Methodist Center in Far Rockaway,1649 Smith Place,11691,"Far Rockaway, NY",718-327-8460,http://www.umc.org/find-a-church/church/157259
+34,HOMELESS_SHELTER,Project Hospitality,100 Park Avenue,10302,Staten Island,718-448-1544,https://www.projecthospitality.org/

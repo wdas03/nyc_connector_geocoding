@@ -1,0 +1,137 @@
+ID,Type,Name,Address,Zip Code,Borough
+1,SOUP_KITCHEN,A New Beginning International Ministry,180 East 118th Street,10035,Manhattan
+2,SOUP_KITCHEN,Beth Hark Christian Counseling Center,1832 Madison Avenue,10035,Manhattan
+3,SOUP_KITCHEN,Mt. Zion AME Church,1765 Madison Avenue,10029,Manhattan
+4,SOUP_KITCHEN,The Salvation Army Manhattan Citadel,145 East 125th Street,10035,Manhattan
+5,SOUP_KITCHEN,Holy Ghost Pentecostal Church,13-15 East 125th Street,10035,Manhattan
+6,SOUP_KITCHEN,New York Common Pantry,8 East 109th Street,10029,Manhattan
+7,SOUP_KITCHEN,Mt. Olivet Baptist Church Community Meal Program,201 Lennox Avenue,10027,Manhattan
+8,SOUP_KITCHEN,Bowery Mission,227 Bowery,10002,Manhattan
+9,SOUP_KITCHEN,Hetrick-Martin Institute,2 Astor Place,10003,Manhattan
+10,SOUP_KITCHEN,The Door,555 Broome Street,10013,Manhattan
+11,SOUP_KITCHEN,The Village Temple Soup Kitchen,33 E 12th Street,10003,Manhattan
+12,SOUP_KITCHEN,St. Joe's Soup Kitchen,371 Sixth Avenue,10014,Manhattan
+13,SOUP_KITCHEN,Xavier Mission Inc.,46 West 16th Street,10011,Manhattan
+14,SOUP_KITCHEN,The Church of the Village – Hope for Our Neighbors,201 West 13th Street,10011,Manhattan
+15,SOUP_KITCHEN,GMHC Meals Program,446 West 33 Street,10001,Manhattan
+16,SOUP_KITCHEN,Grand Central Neighborhood Social Service Corp.,120 East 32nd Street,10016,Manhattan
+17,SOUP_KITCHEN,Holy Apostles Soup Kitchen,269 9th Avenue,10001,Manhattan
+18,SOUP_KITCHEN,Rhow Brooklyn Inc,360 Schermerhorn Street,11217,Brooklyn
+19,SOUP_KITCHEN,St. Luke's Lutheran Church,308 West 46th Street,10036,Manhattan
+20,SOUP_KITCHEN,Crossroads Community Services,108 East 51st Street,10022,Manhattan
+21,SOUP_KITCHEN,Hanson Place SDA Community Service,150 South Portland Avenue,11217,Brooklyn
+22,SOUP_KITCHEN,St. Peter's Church,619 Lexington Avenue,10022,Manhattan
+23,SOUP_KITCHEN,Central Synagogue Caring Community,123 East 55th Street,10022,Manhattan
+24,SOUP_KITCHEN,St. Paul's House Inc.,335 West 51st Street,10019,Manhattan
+25,SOUP_KITCHEN,Faith Assemblies,1014-18 Gates Avenue,11221,Brooklyn
+26,SOUP_KITCHEN,St. Stephen Outreach Community,874 Myrtle Avenue,11206,Brooklyn
+27,SOUP_KITCHEN,Christ Church United Methodist,"520 Park Avenue, 60th Street",10065,Manhattan
+28,SOUP_KITCHEN,Church of St. Paul the Apostle,405 West 59th Street,10019,Manhattan
+29,SOUP_KITCHEN,St. George's Episcopal Church,800 Marcy Avenue,11216,Brooklyn
+30,SOUP_KITCHEN,Crossover Baptist Church Community Outreach Help Center,358 Kosciusko Street,11221,Brooklyn
+31,SOUP_KITCHEN,Upper Room Full Gospel Baptist Church,180 Van Buren Street,11221,Brooklyn
+32,SOUP_KITCHEN,Calvary Free Will Baptist Church,1520-30 Herkimer Street,11207,Brooklyn
+33,SOUP_KITCHEN,Agape Social Services Beulah Ministry **,929 Marcy Avenue,11216,Brooklyn
+34,SOUP_KITCHEN,New Haven SDA Church,634 Prospect Place,11216,Brooklyn
+35,SOUP_KITCHEN,Church of the Epiphany,1393 York Avenue,10021,Manhattan
+36,SOUP_KITCHEN,Hebron SDA Church,1256 Dean Street,11216,Brooklyn
+37,SOUP_KITCHEN,St. John's Bread and Life,795 Lexington Avenue,11221,Brooklyn
+38,SOUP_KITCHEN,Rutgers Thursday Nighters,236 West 73rd Street,10023,Manhattan
+39,SOUP_KITCHEN,Temple Sharaay Tefila,250 East 79th Street,10075,Manhattan
+40,SOUP_KITCHEN,Bridge Street Missionary Feeding Program,277 Stuyvesant Avenue,11221,Brooklyn
+41,SOUP_KITCHEN,Unitarian Church of All Souls,1157 Lexington Avenue,10021,Manhattan
+42,SOUP_KITCHEN,Bethany United Methodist Church,1208 St. Johns Place,11213,Brooklyn
+43,SOUP_KITCHEN,Grace Reformed Church of Flatbush,1800 Bedford Avenue,11225,Brooklyn
+44,SOUP_KITCHEN,The Salvation Army Bushwick Corps,1151 Bushwick Avenue,11221,Brooklyn
+45,SOUP_KITCHEN,Calvary AME Church,790 Herkimer Street,11233,Brooklyn
+46,SOUP_KITCHEN,Glover Memorial BC,2134 Dean Street,11233,Brooklyn
+47,SOUP_KITCHEN,St. Ignatius Episcopal Church,552 West End Avenue,10024,Manhattan
+48,SOUP_KITCHEN,The Other Place,264 West 87th Street,10024,Manhattan
+49,SOUP_KITCHEN,The Other Place/Goddard Riverside **,264 West 87th Street,10024,Manhattan
+50,SOUP_KITCHEN,St. Peter's Episcopal Love Kitchen **,2500 Westchester Avenue,10461,Bronx
+51,SOUP_KITCHEN,Immaculate Conception Church,754 East Gun Hill Road,10467,Bronx
+52,SOUP_KITCHEN,Thurston Memorial Outreach Ministries,1243 Bushwick Avenue,11221,Brooklyn
+53,SOUP_KITCHEN,Congregation Bnai Jeshurun,257 West 88th Street ,10024,Manhattan
+54,SOUP_KITCHEN,New Gethsemane Baptist Church Feeding Program,209 Rochester Avenue,11213,Brooklyn
+55,SOUP_KITCHEN,Mt. Paran Community Development Corp.,1665 Broadway **,11207,Brooklyn
+56,SOUP_KITCHEN,St. Mark's Church of Christ,439 Ralph Avenue,11233,Brooklyn
+57,SOUP_KITCHEN,Neighbors Together,2094 Fulton Street,11233,Brooklyn
+58,SOUP_KITCHEN,Glover Memorial BC/Bread of Life Soup Kitchen **,2134 Dean Street,11233,Brooklyn
+59,SOUP_KITCHEN,St. Anthony Baptist Church,425 Utica Avenue,11213,Brooklyn
+60,SOUP_KITCHEN,Agape Christian Center,59-02 Summerfield Street,11385,"Ridgewood, NY"
+61,SOUP_KITCHEN,OPIN (Other People in Need),1768 St. Johns Place,11233,Brooklyn
+62,SOUP_KITCHEN,First Baptist Church,100-10 Astoria Boulevard,11369,"East Elmhurst, NY"
+63,SOUP_KITCHEN,United Community Baptist Church,545 Utica Avenue,11203,Brooklyn
+64,SOUP_KITCHEN,The Salvation Army Sunset Park Corps,520 50th Street,11220,Brooklyn
+65,SOUP_KITCHEN,Christian Fellowship SDA Community Services - S.K.,777-779 Schenectady Avenue,11203,Brooklyn
+66,SOUP_KITCHEN,Southern Baptist Church,12-16 West 108th Street,10025,Manhattan
+67,SOUP_KITCHEN,Cathedral Community Cares,1047 Amsterdam Avenues,10025,Manhattan
+68,SOUP_KITCHEN,Overcoming Love Ministries,275 Liberty Avenue,11207,Brooklyn
+69,SOUP_KITCHEN,Brooklyn Faith SDA Church,5518 Church Avenue,11203,Brooklyn
+70,SOUP_KITCHEN,Cornerstone SDA Church,138 Pennsylvania Avenue,11207,Brooklyn
+71,SOUP_KITCHEN,Community Impact,616 West 114th Street,10025,Manhattan
+72,SOUP_KITCHEN,Broadway Community Inc.,601 West 114th Street,10025,Manhattan
+73,SOUP_KITCHEN,Gethsemane Outreach Ministries Inc.,144 Newport Street,11212,Brooklyn
+74,SOUP_KITCHEN,The Salvation Army – Templo de Queens,86-07 35th Avenue,11372,"Jackson Heights, NY"
+75,SOUP_KITCHEN,Bay Ridge Community Service Center,411 Ovington Avenue,11209,Brooklyn
+76,SOUP_KITCHEN,The Salvation Army Manhattan Citadel,145 East 125th Street,10035,Manhattan
+77,SOUP_KITCHEN,Billy Roberts House of Hope,302 West 124th Street,10027,Manhattan
+78,SOUP_KITCHEN,Salem United Methodist Church,211 West 129th Street,10027,Manhattan
+79,SOUP_KITCHEN,The Salvation Army Harlem Temple Corps,540 Lenox Avenue,10037,Manhattan
+80,SOUP_KITCHEN,Corona SDA Church,35-30 103rd Street,11368,"Corona, NY"
+81,SOUP_KITCHEN,Iris House Westside Soup Kitchen,2348 Adam Clayton Powell Jr Boulevard,10030,Manhattan
+82,SOUP_KITCHEN,St. Ann's Church of Morrisania,295 St. Ann's Avenue,10454,Bronx
+83,SOUP_KITCHEN,The Momentum Project at St. Cecilia's Church **,"226 East 144th Street, 4th Floor",10452,Bronx
+84,SOUP_KITCHEN,Mt. Zion Baptist Church Mission Outreach,106-60 Union Hall Street,11433,"Jamaica, NY"
+85,SOUP_KITCHEN,Project Hospitality Inc.,514 Bay Street,10304,Staten Island
+86,SOUP_KITCHEN,United Bronx Parents,603 Prospect Avenue,10455,Bronx
+87,SOUP_KITCHEN,The Salvation Army Stapleton Corps,15 Broad Street,10304,Staten Island
+88,SOUP_KITCHEN,Community Food Program North Presbyterian Church,525 West 155th Street,10032,Manhattan
+89,SOUP_KITCHEN,Give Them to Eat,800 East 156th Street,10455,Bronx
+90,SOUP_KITCHEN,The Salvation Army Bronx Citadel,425 East 149th Street,10451,Bronx
+91,SOUP_KITCHEN,St. Margaret's Episcopal Church,940 East 156th Street,10455,Bronx
+92,SOUP_KITCHEN,St. Ann's Corner of Harm Reduction **,"886 Westchester Avenue, Ground Floor",10459,Bronx
+93,SOUP_KITCHEN,Ebenezer SDA Church,1234 East New York Avenue,11212,Brooklyn
+94,SOUP_KITCHEN,Momentum Project Inc. @ COGOP,85 East 165th Street,10452,Bronx
+95,SOUP_KITCHEN,Woodycrest United Methodist Church,89 West 166th Street,10452,Bronx
+96,SOUP_KITCHEN,Manna of Life Ministries Inc.,578 East 166th Street,10456,Bronx
+97,SOUP_KITCHEN,Come World Ministries Inc.,1034 Prospect Avenue,10459,Bronx
+98,SOUP_KITCHEN,Loyal Baptist Church,881 East 167th Street,10459,Bronx
+99,SOUP_KITCHEN,Caldwell Temple AME ZION Church,1288 Rev James A Polite Avenue,10459,Bronx
+100,SOUP_KITCHEN,Holy Tabernacle Church Inc.,3780 Third Avenue,10456,Bronx
+101,SOUP_KITCHEN,Feeding with TLC Inc.,175 Beach Street,10304,Staten Island
+102,SOUP_KITCHEN,Meals on Wheels of Staten Island Inc.,304 Port Richmond Avenue,10302,Staten Island
+103,SOUP_KITCHEN,We Care Community Outreach,1624 East 172nd Street,10472,Bronx
+104,SOUP_KITCHEN,St. Joan of Arc Church,1372 Stratford Avenue,10472,Bronx
+105,SOUP_KITCHEN,Rush Temple AME Zion Church Soup Kitchen,119-48 Sutphin Boulevard,11434,"Jamaica, NY"
+106,SOUP_KITCHEN,Salvation Army/Port Richmond Corps Community Center,1295 Forest Avenue,10302,Staten Island
+107,SOUP_KITCHEN,Manna of Life Ministries Inc. **,240 East Tremont Avenue,10457,Bronx
+108,SOUP_KITCHEN,The Salvation Army Jamaica Citadel,90-23 161st Street,11432,"Jamaica, NY"
+109,SOUP_KITCHEN,Grace Episcopal Church,1909 Vyse Avenue,10460,Bronx
+110,SOUP_KITCHEN,Acts Community Development Corporation,2114 Mermaid Avenue,11224,Brooklyn
+111,SOUP_KITCHEN,St. Anthony of Padua Church,1496 Commonwealth Avenue,10460,Bronx
+112,SOUP_KITCHEN,The Harding Ford Vision Inc.,157-22 South Road,11433,"Jamaica, NY"
+113,SOUP_KITCHEN,New York City Love Kitchen Inc.,3816 9th Avenue,10034,Manhattan
+114,SOUP_KITCHEN,Macedonia AME Church,106-16 Guy R. Brewer Boulevard,11433,"Jamaica, NY"
+115,SOUP_KITCHEN,Allen Outreach Ministry Feeding Program,111-54 Merrick Boulevard,11433,"Jamaica, NY"
+116,SOUP_KITCHEN,First Reformed Church of Jamaica,159-29 90th Avenue,11432,"Jamaica, NY"
+117,SOUP_KITCHEN,Morris Brown AME Church,145-03 Rockaway Blvd,11436,"Jamaica, NY"
+118,SOUP_KITCHEN,Part of the Solution (POTS),2759 Webster Avenue,10458,Bronx
+119,SOUP_KITCHEN,St. Alban's Gospel Assembly,200-25 Linden Blvd,11412,"St. Albans, NY"
+120,SOUP_KITCHEN,St. Lucy's Soup Kitchen,830 Mace Avenue,10467,Bronx
+121,SOUP_KITCHEN,First Church of God in Christ,187-10 Baisley Blvd,11412,"St. Albans, NY"
+122,SOUP_KITCHEN,Victory SDA Church,1271 Burke Avenue,10469,Bronx
+123,SOUP_KITCHEN,Eastchester Presbyterian Church,3154 Fish Avenue,10469,Bronx
+124,SOUP_KITCHEN,St. Luke's Senior Center Community Program,777 East 222nd Street,10467,Bronx
+125,SOUP_KITCHEN,Shiloh Temple Pentecostal Church,719 East 223rd Street,10466,Bronx
+126,SOUP_KITCHEN,East 223rd Street Senior Center,732 East 233rd Street,10466,Bronx
+127,SOUP_KITCHEN,H.O. Scott Education and Community Center Peach Cobler,1510 Redfern Avenue,11691,"Far Rockaway, NYC"
+128,SOUP_KITCHEN,United Methodist Center in Far Rockaway,1032 Beach 19th Street ,11691,"Far Rockaway, NYC"
+129,SOUP_KITCHEN,Crown Heights Community Outreach Center,467 Rutland Road,11203,Brooklyn
+130,SOUP_KITCHEN,Newman Memorial United Methodist Church,257 Macon Street,11216,Brooklyn
+131,SOUP_KITCHEN,Hope City Empowerment Center,650-656 Washington Avenue,11238,Brooklyn
+132,SOUP_KITCHEN,Trinity's Services and Food for the Homeless Inc.,602 East 9th Street,10009,Manhattan
+133,SOUP_KITCHEN,Father's Heart Ministries,543-545 East 11th Street,10009,Manhattan
+134,SOUP_KITCHEN,The Salvation Army New York Temple,132 West 14th Street,10011,Manhattan
+135,SOUP_KITCHEN,University Community Social Services,137 East 2nd Street,10009,Manhattan
+136,SOUP_KITCHEN,Friendly Hands Ministry Inc. **,229 East 118th Street (Ground Floor),10035,Manhattan
