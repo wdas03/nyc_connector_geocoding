@@ -1,0 +1,71 @@
+ID,Type,Name,Address,Zip Code,Borough,Phone Number
+1,CLOTHING_SHELTER,Goodwill: Greenwich Village Store and Donation Center,44 W 8th Street,10011,Manhattan,212-477-7024
+2,CLOTHING_SHELTER,Goodwill: Manhattan 14st Street Store and Donation Center,7 W 14th Street,10011,Manhattan,212-206-1619
+3,CLOTHING_SHELTER,Goodwill: Brooklyn Livingston Store and Donation Center,258 Livingston Street,11201,Brooklyn,718-923-9037
+4,CLOTHING_SHELTER,Goodwill: Manhattan 23rd Street Store and Donation Center,220 E 23rd Street,10010,Manhattan,212-447-7270
+5,CLOTHING_SHELTER,Goodwill: Chelsea 25th Street Store and Donation Center,103 W 25th Street,10001,Manhattan,646-638-1725
+6,CLOTHING_SHELTER,Goodwill: Manhattan 61st Street Store and Donation Center,1114 1st Avenue,10065,Manhattan,212-355-5206
+7,CLOTHING_SHELTER,Goodwill: Queens Van Dam Outlet Store and Donation Center,47-47 Van Dam Street,11101,"Long Island City, NY",718-392-0125
+8,CLOTHING_SHELTER,Goodwill: Manhattan West 72nd Street Store and Donation Center,157 West 72nd Street,10023,Manhattan,212-799-2723
+9,CLOTHING_SHELTER,Goodwill: Manhattan 79th Street Store and Donation Center,217 W 79th Street,10024,Manhattan,212-874-5050
+10,CLOTHING_SHELTER,Goodwill: Manhattan Stuyvesant Store and Donation Center,1704 2nd Avenue,10128,Manhattan,212-831-1830
+11,CLOTHING_SHELTER,Goodwill HQ and Donated Goods Processing Center,4-21 27th Avenue,11102,"Astoria, NY",718-728-5400
+12,CLOTHING_SHELTER,Goodwill: East Harlem Third Avenue Store and Donation Center,2231 3rd Avenue,10035,Manhattan,212-410-0973
+13,CLOTHING_SHELTER,Goodwill: Harlem Fifth Avenue Store and Donation Center,2196 5th Avenue,10037,Manhattan,212-862-0020
+14,CLOTHING_SHELTER,Goodwill: Washington Heights Store and Donation Center,512 W 181st Street,10033,Manhattan,212-923-7910
+15,CLOTHING_SHELTER,Goodwill: Whitestone U.S. Post Office Donation Bin,142-02 20th Avenue,11351,"Whitestone, NY",718-728-5400
+16,CLOTHING_SHELTER,Goodwill: Jamaica – St. John's University Donation Bin,8000 Utopia Parkway,11439,"Jamaica, NY",718-728-5400
+17,CLOTHING_SHELTER,Goodwill: Long Beach Recreation Center Bin,700 Magnolia Boulevard,11561,"Long Beach, NY",718-728-5400
+18,CLOTHING_SHELTER,Family Resource Center,"100 Pennsylvania Avenue, 3rd Floor",11207,Brooklyn,817-875-0027 ext 206
+19,CLOTHING_SHELTER,Housing Works: Upper East Side Thrift Shop,1200 Lexington Avenue,10028,Manhattan,1-888- HW-DONATE
+20,CLOTHING_SHELTER,Housing Works: South Slope Thrift Ship,424 7th Avenue,11215,Brooklyn,1-888- HW-DONATE
+21,CLOTHING_SHELTER,Housing Works: Yorkville Thrift Shop (Second Avenue and 90th Street),1730 2nd Avenue,10128,Manhattan,212-722-8306
+22,CLOTHING_SHELTER,Housing Works: Soho Thrift Shop,130 Crosby Street,10012,Manhattan,646-786-1200
+23,CLOTHING_SHELTER,Housing Works: 2nd Ave and 64th Thrift Shop,1222 2nd Avenue,10065,Manhattan,646-975-5905
+24,CLOTHING_SHELTER,Housing Works: Columbus and 74th Thrift Shop,306 Columbus Avenue,10023,Manhattan,212-579-7566
+25,CLOTHING_SHELTER,Housing Works: Chelsea Thrift Shop,143 W 17th Street,10011,Manhattan,718-838-5050
+26,CLOTHING_SHELTER,Housing Works: West Village Thrift Shop,245 W 10th Street,10014,Manhattan,212-352-1618
+27,CLOTHING_SHELTER,Housing Works: Tribeca Thrift Shop,119 Chambers Street,10007,Manhattan,212-732-0584
+28,CLOTHING_SHELTER,Park Slope Thrift Shop,266 5th Avenue,11215,Brooklyn,718-636-2271
+29,CLOTHING_SHELTER,Gramercy Thrift Shop,157 East 23rd Street,10010,Manhattan,212-529-5955
+30,CLOTHING_SHELTER,Hell's Kitchen Thrift Shop,732 9th Avenue,10019,Manhattan,646-963-2665
+31,CLOTHING_SHELTER,Broadway and 96th Thrift Shop,2569 Broadway,10036,Manhattan,212-222-3550
+32,CLOTHING_SHELTER,NYC Rescue Mission,90 Lafayette Street,10013,Manhattan,212-226-6214 ext 134
+33,CLOTHING_SHELTER,Positive Step,"305 7th Avenue, 13th Floor",10001,Manhattan,212-645-3444
+34,CLOTHING_SHELTER,Salvation Army Family Store and Donation Center,536 W 46th Street,10036,Manhattan,800-728-7825
+36,CLOTHING_SHELTER,Salvation Army Family Store,268 W 96th Street,10025,Manhattan,800-728-7825
+37,CLOTHING_SHELTER,Salvation Army Store,208 E 23rd Street,10010,Manhattan,212-532-8115
+38,CLOTHING_SHELTER,Salvation Army Family Store,220 E 23rd Street,10010,Manhattan,800-728-7825
+39,CLOTHING_SHELTER,Salvation Army Greater New York Divisional Headquarters,120 West 14th Street,10011,Manhattan,212-337-7200
+40,CLOTHING_SHELTER,Salvation Army Store,112 4th Avenue,10003,Manhattan,212-673-2741
+41,CLOTHING_SHELTER,Salvation Army Store,34-02 Steinway Street,11101,Manhattan,718-472-2414
+42,CLOTHING_SHELTER,Salvation Army Astoria Corps,45-18 Broadway,11103,"Long Island City, NY",718-821-9046
+43,CLOTHING_SHELTER,Salvation Army Family Store,30-11 61st Street,11377,"Woodside, NY",800-728-7825
+44,CLOTHING_SHELTER,Salvation Army Bronx Citadel,425 E 159th Street,10451,Bronx,718-665-8472
+45,CLOTHING_SHELTER,Salvation Army Family Store,937 Broadway,11206,Brooklyn,800-728-7825
+46,CLOTHING_SHELTER,Salvation Army Family Store,436 Atlantic Avenue,11217,Brooklyn,800-728-7825
+47,CLOTHING_SHELTER,Salvation Army Family Store,1294 Southern Blvd,10459,Bronx,800-728-7825
+48,CLOTHING_SHELTER,Salvation Army Brooklym Adult Rehabilitation Center and Family Store #1,22 Quincy Street,11238,Brooklyn,718-622-7166
+49,CLOTHING_SHELTER,Salvation Army Warehouse,4109 Park Avenue,10457,Bronx,718-583-6508
+50,CLOTHING_SHELTER,Salvation Army Bronx Adult Rehabilitation Center,4133 Park Avenue,10457,Bronx,800-728-7825
+51,CLOTHING_SHELTER,Salvation Army Family Store,1243 Fulton Street,11216,Brooklyn,800-728-7825
+52,CLOTHING_SHELTER,Salvation Army Family Store,73-26 Metropolitan Avenue,11379,"Middle Village, NY",800-728-7825
+53,CLOTHING_SHELTER,Salvation Army Family Store,2359 Jerome Avenue,10468,Bronx,800-728-7825
+54,CLOTHING_SHELTER,Salvation Army Flushing Corps,142-50 32nd Avenue,11354,Manhattan,929-422-6325
+55,CLOTHING_SHELTER,Salvation Army Store,2441 Boston Road,10467,Manhattan,718-325-5810
+56,CLOTHING_SHELTER,Salvation Army Family Store and Donation Center,6822 3rd Avenue,11220,Brooklyn,718-833-6894
+57,CLOTHING_SHELTER,Salvation Army Family Store,148-15 Archer Avenue,11435,"Jamaica, NY",800-728-7825
+58,CLOTHING_SHELTER,Salvation Army Family Store,3612 Nostrand Avenue,11229,Brooklyn,800-728-7825
+59,CLOTHING_SHELTER,Salvation Army Family Store,493 Mosel Avenue,10304,Staten Island,800-728-7825
+60,CLOTHING_SHELTER,Salvation Army Family Store and Donation Center,2053 Clove Road,10304,Staten Island,718-442-3179
+61,CLOTHING_SHELTER,Salvation Army Key Food Queens Village,220-46 Hillside Avenue,11427,"Queens Village, NY",800-728-7825
+62,CLOTHING_SHELTER,Salvation Army Living Hope Christian Church SA Donation,243-20 Braddock Avenue,11426,"Bellerose, NY",800-728-7825
+63,CLOTHING_SHELTER,Salvation Army Family Store,562 North Avenue,10801,"New Rochelle, NY",800-728-7825
+64,CLOTHING_SHELTER,St. John the Divine Community Cares,1047 Amsterdam Avenue,10025,Manhattan,212-316-7585
+65,CLOTHING_SHELTER,AIDS Service Center of Lower Manhattan (Men's Clothing Only),41 E 11th Street,10003,Manhattan,212-645-0875
+66,CLOTHING_SHELTER,Bowery Mission (Men's Clothing Only),227 Bowery,10002,Manhattan,212-674-3456
+67,CLOTHING_SHELTER,Bowery Mission Transitional Center (Men's Clothing Only),45-51 Ave. D,10009,Manhattan,212-777-3424
+68,CLOTHING_SHELTER,Project FIND (Men's Clothing Only),"127 West 43rd Street, 2nd Floor",10036,Manhattan,212-575-0693
+69,CLOTHING_SHELTER,CAMBA (Baby + Children Clothing Only),19 Winthrop Street,11225,Brooklyn,718-462-8654
+70,CLOTHING_SHELTER,Kids in Stressed Situations (Baby + Children Clothing Only),"112 W 34th Street, Suite 1133",10120,Manhattan,212-279-5493
+71,CLOTHING_SHELTER,Room to Grow (Baby + Children Clothing Only),"7 W 30th Street, 3rd Floor",10001,Manhattan,212-620-7800
